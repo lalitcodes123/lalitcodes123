@@ -1,1 +1,1 @@
-web: gunicorn lalitcodes123.wsgi 
+web: gunicorn lalit.wsgi 
